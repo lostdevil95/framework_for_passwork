@@ -14,7 +14,7 @@
 
 - 	хост - ********
 - 	dependencies - python 3.9
--     api-key для теста - wNxRewGJZM2xe0xZgePsPB3BwOUjpsenRWXiIlQfEAsnOqR7NtkxtEeYMc41
+-     api-key для теста - *****************************
 - 		(выставить в файле API_key.py)
 
 
