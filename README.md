@@ -12,7 +12,7 @@
 ```
 
 
-- 	хост - http://172.17.128.22/api/v4
+- 	хост - ********
 - 	dependencies - python 3.9
 -     api-key для теста - wNxRewGJZM2xe0xZgePsPB3BwOUjpsenRWXiIlQfEAsnOqR7NtkxtEeYMc41
 - 		(выставить в файле API_key.py)
